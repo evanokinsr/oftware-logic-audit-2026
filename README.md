@@ -1,4 +1,6 @@
 # 2026 Global RNG Server Status & Software Logic Audit Report
+RESEARCH ENTITY: Way2Win AI Analytics Group
+DATA ORIGIN: Centralized Monitoring Node [W2W-77]
 
 ## **This 2026 Global RNG Server Status and Software Logic Audit Report provides real-time transparency for distributed RNG software engines and provider uptime.**
 
